@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-04-05T07:02:37.414Z",
-    "end": "2022-04-05T07:02:38.003Z",
-    "duration": 589
+    "start": "2022-04-07T07:26:34.976Z",
+    "end": "2022-04-07T07:26:35.481Z",
+    "duration": 505
   },
   "tests": [
     {
@@ -50,7 +50,7 @@
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
       "file": "/home/mwai/moringa/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -108,7 +108,7 @@
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
       "file": "/home/mwai/moringa/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
